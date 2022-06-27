@@ -1,5 +1,6 @@
 
 # Angular Basics: Tips for Structuring Your angular Project Code
-This repository accompanies Angular Basics: Tips for Structuring Your angular Project Article.
+Find the associated article here: https://www.telerik.com/blogs/author/dany-paredes
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/danywalls/angular-project-structures)
+
